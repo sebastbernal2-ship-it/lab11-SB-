@@ -1,4 +1,4 @@
-# https://github.com/sebastbernal2-ship-it/lab11-SB-
+# https://github.com/sebastbernal2-ship-it/lab11-SB-SB
 # Partner 1: Sebastian Bernal-Orta
 # Partner 2: Sebastian Bernal-Orta
 
